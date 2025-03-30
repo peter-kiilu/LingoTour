@@ -39,7 +39,21 @@ export const translations = {
         'how much?': 'Combien?',
         'help': 'Aide',
       },
-      // Add more languages as needed
-    },
-    // You can add more source languages here
-  };
+      de: {
+        hello: "Hallo",
+        "thank you": "Danke",
+        goodbye: "Auf Wiedersehen",
+        "where is...?": "Wo ist...?",
+        "how much?": "Wie viel?",
+        help: "Hilfe",
+      },
+      it: {
+        hello: "Ciao",
+        "thank you": "Grazie",
+        goodbye: "Arrivederci",
+        "where is...?": "Dov'è...?",
+        "how much?": "Quanto costa?",
+        help: "Aiuto",
+     },
+  },
+ };
