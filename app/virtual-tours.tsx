@@ -7,7 +7,7 @@ export default function VirtualToursScreen() {
     { id: '2', title: 'Colosseum', location: 'Rome, Italy', image: require('./../assets/colosseum.jpg') },
     { id: '3', title: 'Great Wall', location: 'China', image: require('./../assets/great-wall.jpg') },
     { id: '4', title: 'Machu Picchu', location: 'Peru', image: require('./../assets/machu-picchu.jpg') },
-    { id: '4', title: 'Diani Beach', location: 'Mombasa, Kenya', image: require('./../assets/dianibeach.jpg') },
+    { id: '5', title: 'Diani Beach', location: 'Mombasa, Kenya', image: require('./../assets/dianibeach.jpg') },
 
   ];
 
